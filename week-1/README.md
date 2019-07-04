@@ -20,3 +20,7 @@ This is the outline and plans on week 1 made by Siraj Raval. Full curriculum [he
 
 - Look at 1-1 to 3-4 to learn NLTK https://github.com/hb20007/hands-on-nltk-tutorial
 - Then use NLTK to perform stemming, lemmatization, tokenization, stopword removal on a dataset of your choice
+
+## `pdf`
+
+all chapter-wise pdf files in `pdf` directory is downloaded from [Vu Anh](https://github.com/rain1024/slp2-pdf/tree/master/chapter-wise-pdf)
