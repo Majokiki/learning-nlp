@@ -11,6 +11,11 @@ jupyterlab = "*"
 numpy = "*"
 pandas = "*"
 nltk = "*"
+matplotlib = "*"
+tweepy = "*"
+langdetect = "*"
+langid = "*"
+gensim = "*"
 
 [requires]
 python_version = "3.6"
